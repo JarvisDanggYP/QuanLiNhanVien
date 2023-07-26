@@ -1,0 +1,3 @@
+/Volumes/CodeFile/CTDL&GT/SOF307/Asignment/cmake-build-debug/CMakeFiles/Asignment.dir
+/Volumes/CodeFile/CTDL&GT/SOF307/Asignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/CodeFile/CTDL&GT/SOF307/Asignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
